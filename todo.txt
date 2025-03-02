@@ -1,0 +1,19 @@
+1 March 2025
+
+What I've Done:
+- created a general scraping tool that finds all stock/securities purchases made by active US Senators in the last 2 years
+- a .csv output from the above that contains the above, minus senators who disclosed via PDF rather than the web tool
+
+What is Coming:
+- formatting the data
+- finding a way to complete the scraping tool so it scans PDFs neatly and adds to the output above
+- using existing/new scraping tool to gather same info from congressmen (PDFs only)
+- figuring out how to automate for future disclosures...
+- Full Stack Planning
+- Full Stack implementation
+- Monetization
+- Deployment
+- Marketting
+- Adding to Resume
+- Freelancing
+- Rinse and Repeat
